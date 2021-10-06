@@ -1,19 +1,19 @@
 {
-    "version": "3.1.4",
+    "version": "4.0.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/markcornick/genpw/releases/download/v3.1.4/genpw_3.1.4_Windows_i386.tar.gz",
+            "url": "https://github.com/markcornick/genpw/releases/download/v4.0.1/genpw_4.0.1_Windows_i386.tar.gz",
             "bin": [
                 "genpw.exe"
             ],
-            "hash": "b956bdb37438032b2f8e3b100eafbd66a034cf077964a51a149a2678038fa83f"
+            "hash": "fc5d482467a9a0fb3a6176f68cf786c4929de47e0aa3b79521b36838098f32d9"
         },
         "64bit": {
-            "url": "https://github.com/markcornick/genpw/releases/download/v3.1.4/genpw_3.1.4_Windows_x86_64.tar.gz",
+            "url": "https://github.com/markcornick/genpw/releases/download/v4.0.1/genpw_4.0.1_Windows_x86_64.tar.gz",
             "bin": [
                 "genpw.exe"
             ],
-            "hash": "3d8bcbbdc5ebd374a143da37179842b607cf1a8809c3dc94bbe592894d824e0b"
+            "hash": "076d241867c3cb5727e3bba4a4d4a7a19ef96e5651118c382de5376f9f706624"
         }
     },
     "homepage": "https://github.com/markcornick/genpw",
