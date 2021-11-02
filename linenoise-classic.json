@@ -1,0 +1,22 @@
+{
+    "version": "1.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/markcornick/linenoise-classic/releases/download/v1.0.1/linenoise-classic_1.0.1_windows_386.tar.gz",
+            "bin": [
+                "linenoise-classic.exe"
+            ],
+            "hash": "d2516996aca70526035fb88e5cf18bae9200514b173d2f03ab04f4c9b4115ac6"
+        },
+        "64bit": {
+            "url": "https://github.com/markcornick/linenoise-classic/releases/download/v1.0.1/linenoise-classic_1.0.1_windows_amd64.tar.gz",
+            "bin": [
+                "linenoise-classic.exe"
+            ],
+            "hash": "68c3be5fbb72b12e9b37bd1805095dd0af3b9544f0c4ab5ef190f20279fb571d"
+        }
+    },
+    "homepage": "https://github.com/markcornick/linenoise-classic",
+    "license": "MIT",
+    "description": "Generates strings that can be used as reasonably secure passwords."
+}
