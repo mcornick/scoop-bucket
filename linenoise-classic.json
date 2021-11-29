@@ -1,19 +1,19 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/markcornick/linenoise-classic/releases/download/v1.0.1/linenoise-classic_1.0.1_windows_386.tar.gz",
+            "url": "https://github.com/markcornick/linenoise-classic/releases/download/v1.0.3/linenoise-classic_1.0.3_windows_386.tar.gz",
             "bin": [
                 "linenoise-classic.exe"
             ],
-            "hash": "d2516996aca70526035fb88e5cf18bae9200514b173d2f03ab04f4c9b4115ac6"
+            "hash": "42e141cef0eb606640bcb45307163b9af4b8ffb557e4308e4fd3f9bd68aca8ab"
         },
         "64bit": {
-            "url": "https://github.com/markcornick/linenoise-classic/releases/download/v1.0.1/linenoise-classic_1.0.1_windows_amd64.tar.gz",
+            "url": "https://github.com/markcornick/linenoise-classic/releases/download/v1.0.3/linenoise-classic_1.0.3_windows_amd64.tar.gz",
             "bin": [
                 "linenoise-classic.exe"
             ],
-            "hash": "68c3be5fbb72b12e9b37bd1805095dd0af3b9544f0c4ab5ef190f20279fb571d"
+            "hash": "ebdf41c5d412c68a9d8a8dba82b483ef7b5bfb83fd405e9256f8f0a371617b44"
         }
     },
     "homepage": "https://github.com/markcornick/linenoise-classic",
