@@ -1,19 +1,19 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mcornick/linenoise-cli/releases/download/v1.2.2/linenoise-cli_1.2.2_windows_386.tar.gz",
+            "url": "https://github.com/mcornick/linenoise-cli/releases/download/v1.2.3/linenoise-cli_1.2.3_windows_386.tar.gz",
             "bin": [
                 "linenoise-cli.exe"
             ],
-            "hash": "2cffcd6ce4b70ecea8d2a06cff1abbcf8607e1519497b483d6ba157d1d6f52a7"
+            "hash": "a58feaadd2f1ba55c2e68999caaf85984aa67e35d1c995050e12ed1dab0f8a93"
         },
         "64bit": {
-            "url": "https://github.com/mcornick/linenoise-cli/releases/download/v1.2.2/linenoise-cli_1.2.2_windows_amd64.tar.gz",
+            "url": "https://github.com/mcornick/linenoise-cli/releases/download/v1.2.3/linenoise-cli_1.2.3_windows_amd64.tar.gz",
             "bin": [
                 "linenoise-cli.exe"
             ],
-            "hash": "b84eff3d8bb6c3de96197bb63eec479b09e20080342591f18dfed425001ec7f2"
+            "hash": "7f1c7a7f32a027ba7ef966dcfb14c9ebdb27a12069d4af01cb9aafc544f4842c"
         }
     },
     "homepage": "https://github.com/mcornick/linenoise-cli",
