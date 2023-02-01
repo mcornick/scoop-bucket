@@ -1,22 +1,22 @@
 {
-    "version": "1.2.8",
+    "version": "1.2.12",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mcornick/linenoise-cli/releases/download/v1.2.8/linenoise-cli_1.2.8_windows_386.tar.gz",
+            "url": "https://github.com/mcornick/linenoise-cli/releases/download/v1.2.12/linenoise-cli_1.2.12_windows_386.tar.gz",
             "bin": [
                 "linenoise-cli.exe"
             ],
-            "hash": "3f39c4a23cf5accd971da73a5f76bb10a21c7d611ff214b5fa633010155bef94"
+            "hash": "2a8c2f4ea6d4cf562a118ddc02ee69acc1d4f5fde635c275bfe0d8baaf536dcc"
         },
         "64bit": {
-            "url": "https://github.com/mcornick/linenoise-cli/releases/download/v1.2.8/linenoise-cli_1.2.8_windows_amd64.tar.gz",
+            "url": "https://github.com/mcornick/linenoise-cli/releases/download/v1.2.12/linenoise-cli_1.2.12_windows_amd64.tar.gz",
             "bin": [
                 "linenoise-cli.exe"
             ],
-            "hash": "1ef6411cdbc8be5d90967587d056be88e3e484e72649aa9fa22c1d787c78c376"
+            "hash": "3a314b35cd7954b739dcb0e7ed3259f9d35bf4014e6dfe20a874ad1da3695cc6"
         }
     },
     "homepage": "https://github.com/mcornick/linenoise-cli",
     "license": "MIT",
-    "description": "Generates strings that can be used as reasonably secure passwords."
+    "description": "Generates strings that can be used as reasonably secure passwords"
 }
