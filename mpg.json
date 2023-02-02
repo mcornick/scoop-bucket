@@ -1,19 +1,19 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.9",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mcornick/mpg/releases/download/v1.0.7/mpg_1.0.7_windows_386.zip",
+            "url": "https://github.com/mcornick/mpg/releases/download/v1.0.9/mpg_1.0.9_windows_386.zip",
             "bin": [
                 "mpg.exe"
             ],
-            "hash": "2bec5e173f4e63d5c34b4c09d43086635d3c27b7e0f48b5e96bfca2cdf317c50"
+            "hash": "9c051d280947a4fa706d7d7f90372c27d3fa74010fbafad652e80abe16157f99"
         },
         "64bit": {
-            "url": "https://github.com/mcornick/mpg/releases/download/v1.0.7/mpg_1.0.7_windows_amd64.zip",
+            "url": "https://github.com/mcornick/mpg/releases/download/v1.0.9/mpg_1.0.9_windows_amd64.zip",
             "bin": [
                 "mpg.exe"
             ],
-            "hash": "79a8472d9f84f372f26e1f9b42b1fc29c5ea8fcadb8ee62a64b93b9a127b850d"
+            "hash": "61874452321b181c2bf5cc46e14ea95f2711ba830477a5d6f2dc87e799e92ebc"
         }
     },
     "homepage": "https://github.com/mcornick/mpg",
