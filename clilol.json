@@ -1,22 +1,22 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7-pre11",
     "architecture": {
         "32bit": {
-            "url": "https://git.mcornick.dev/mcornick/clilol/releases/download/v1.0.6/clilol_1.0.6_windows_386.zip",
+            "url": "https://git.mcornick.dev/mcornick/clilol/releases/download/v1.0.7-pre11/clilol_1.0.7-pre11_windows_386.zip",
             "bin": [
                 "clilol.exe"
             ],
-            "hash": "fcc32f3b63c64c503494f78af54f18ad757bb2a838c30e28293840edf4eac1a3"
+            "hash": "e48bd9d9b5b586c8b4a679a4c9e7bb13f58d89cf24a45b81c704960e6fabcd19"
         },
         "64bit": {
-            "url": "https://git.mcornick.dev/mcornick/clilol/releases/download/v1.0.6/clilol_1.0.6_windows_amd64.zip",
+            "url": "https://git.mcornick.dev/mcornick/clilol/releases/download/v1.0.7-pre11/clilol_1.0.7-pre11_windows_amd64.zip",
             "bin": [
                 "clilol.exe"
             ],
-            "hash": "98ee9a3083a432ec50a3e3537d7cf78392c57d2734d1d66cbaf2369297988b4b"
+            "hash": "af8966dc4dfe6d976b8a2bbc851a199657e437871a69ed60cb82528f9c07a078"
         }
     },
-    "homepage": "https://mcornick.com/clilol/",
+    "homepage": "https://clilol.mcornick.dev/",
     "license": "MPL-2.0",
     "description": "A CLI for omg.lol"
 }
