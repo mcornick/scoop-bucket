@@ -1,19 +1,19 @@
 {
-    "version": "1.0.7-pre11",
+    "version": "1.0.8",
     "architecture": {
         "32bit": {
-            "url": "https://git.mcornick.dev/mcornick/clilol/releases/download/v1.0.7-pre11/clilol_1.0.7-pre11_windows_386.zip",
+            "url": "https://git.mcornick.dev/mcornick/clilol/releases/download/v1.0.8/clilol_1.0.8_windows_386.zip",
             "bin": [
                 "clilol.exe"
             ],
-            "hash": "e48bd9d9b5b586c8b4a679a4c9e7bb13f58d89cf24a45b81c704960e6fabcd19"
+            "hash": "ae98bf731a6320a5b34d0c2f9ae62248d914d8ee928b01ad2087631e9bd857e2"
         },
         "64bit": {
-            "url": "https://git.mcornick.dev/mcornick/clilol/releases/download/v1.0.7-pre11/clilol_1.0.7-pre11_windows_amd64.zip",
+            "url": "https://git.mcornick.dev/mcornick/clilol/releases/download/v1.0.8/clilol_1.0.8_windows_amd64.zip",
             "bin": [
                 "clilol.exe"
             ],
-            "hash": "af8966dc4dfe6d976b8a2bbc851a199657e437871a69ed60cb82528f9c07a078"
+            "hash": "ef0c6a81f5c817c54d10c74b73b2b79e66371f61c5af39601f4854dce1d3edf6"
         }
     },
     "homepage": "https://clilol.mcornick.dev/",
