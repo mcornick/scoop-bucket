@@ -5,5 +5,5 @@ This is a bucket for software I have written. It is automatically maintained by 
 ## Usage
 
 ```
-scoop bucket add mcornick https://git.mcornick.dev/mcornick/scoop-bucket
+scoop bucket add mcornick git@git.sr.ht:~mcornick/scoop-bucket
 ```
