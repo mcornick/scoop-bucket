@@ -6,14 +6,14 @@
             "bin": [
                 "clilol.exe"
             ],
-            "hash": "f446714ffa6c98824ebff649896523396e2873517b8618c01acaae08f08b796a"
+            "hash": "bebcb87e4478e6e55726ded005f6f00eb8ed22e8d30830fc276bbb0fdd40c283"
         },
         "64bit": {
             "url": "https://github.com/mcornick/clilol/releases/download/v1.0.12/clilol_1.0.12_windows_amd64.zip",
             "bin": [
                 "clilol.exe"
             ],
-            "hash": "7c7a7bf45a41cd761ee016b4a402addc23412b64a9cd90b84c368ab1f2cdb73a"
+            "hash": "7d4c3046f44666a94caea4afdceea9122aebcdb4ed6e109261f55c4d78ef4a1e"
         }
     },
     "homepage": "https://clilol.readthedocs.io/",
