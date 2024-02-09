@@ -1,19 +1,19 @@
 {
-    "version": "1.0.11",
+    "version": "1.0.12",
     "architecture": {
         "32bit": {
-            "url": "https://git.mcornick.dev/mcornick/clilol/releases/download/v1.0.11/clilol_1.0.11_windows_386.zip",
+            "url": "https://github.com/mcornick/clilol/releases/download/v1.0.12/clilol_1.0.12_windows_386.zip",
             "bin": [
                 "clilol.exe"
             ],
-            "hash": "3e9a9d0daba523477f5372c117c4620d1c352a699a5f271b19c2be52d5f8436a"
+            "hash": "f446714ffa6c98824ebff649896523396e2873517b8618c01acaae08f08b796a"
         },
         "64bit": {
-            "url": "https://git.mcornick.dev/mcornick/clilol/releases/download/v1.0.11/clilol_1.0.11_windows_amd64.zip",
+            "url": "https://github.com/mcornick/clilol/releases/download/v1.0.12/clilol_1.0.12_windows_amd64.zip",
             "bin": [
                 "clilol.exe"
             ],
-            "hash": "37f42f48a851f0bb4fc3b01520498ac2ecedc8a5e6dae8c49f7c2c8596edb6fe"
+            "hash": "7c7a7bf45a41cd761ee016b4a402addc23412b64a9cd90b84c368ab1f2cdb73a"
         }
     },
     "homepage": "https://clilol.readthedocs.io/",
