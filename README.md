@@ -1,4 +1,4 @@
-# Mark's Scoop bucket
+# M Cornick's Scoop bucket
 
 This is a bucket for software I have written. It is automatically maintained by [GoReleaser](https://goreleaser.com/).
 
